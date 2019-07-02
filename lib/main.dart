@@ -1,8 +1,8 @@
 import 'dart:async';
 
 import 'package:flutter/material.dart';
-import 'platzi_trips.dart';
 import 'platzi_trips_cupertino.dart';
+import 'package:generic_bloc_provider/generic_bloc_provider.dart';
 
 void main() => runApp(MyApp());
 
